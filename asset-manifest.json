@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/Himanshsharma/IMAGES-SEARCH-REACTAPP/static/js/main.3c38615e.chunk.js",
+    "main.js.map": "/Himanshsharma/IMAGES-SEARCH-REACTAPP/static/js/main.3c38615e.chunk.js.map",
+    "runtime-main.js": "/Himanshsharma/IMAGES-SEARCH-REACTAPP/static/js/runtime-main.bde7a528.js",
+    "runtime-main.js.map": "/Himanshsharma/IMAGES-SEARCH-REACTAPP/static/js/runtime-main.bde7a528.js.map",
+    "static/js/2.0062f513.chunk.js": "/Himanshsharma/IMAGES-SEARCH-REACTAPP/static/js/2.0062f513.chunk.js",
+    "static/js/2.0062f513.chunk.js.map": "/Himanshsharma/IMAGES-SEARCH-REACTAPP/static/js/2.0062f513.chunk.js.map",
+    "index.html": "/Himanshsharma/IMAGES-SEARCH-REACTAPP/index.html",
+    "precache-manifest.21b13015fbfe728479559b4fa80d1360.js": "/Himanshsharma/IMAGES-SEARCH-REACTAPP/precache-manifest.21b13015fbfe728479559b4fa80d1360.js",
+    "service-worker.js": "/Himanshsharma/IMAGES-SEARCH-REACTAPP/service-worker.js",
+    "static/js/2.0062f513.chunk.js.LICENSE": "/Himanshsharma/IMAGES-SEARCH-REACTAPP/static/js/2.0062f513.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bde7a528.js",
+    "static/js/2.0062f513.chunk.js",
+    "static/js/main.3c38615e.chunk.js"
+  ]
+}
